@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Links](https://your-solution-url.com)
-- Live Site URL: [Links](https://your-live-site-url.com)
+- Solution URL: [Links](https://www.frontendmentor.io/solutions/product-cart-list-main-responsiveness-dVwteRYqdY)
+- Live Site URL: [Links](https://elianechavarria.github.io/product-cart-list-main/)
 
 ## My process
 
